@@ -1,0 +1,15 @@
+C:\Project\C#\Troco\Troco\obj\Debug\netcoreapp3.1\Troco.csprojAssemblyReference.cache
+C:\Project\C#\Troco\Troco\obj\Debug\netcoreapp3.1\Troco.Troco.resources
+C:\Project\C#\Troco\Troco\obj\Debug\netcoreapp3.1\Troco.csproj.GenerateResource.cache
+C:\Project\C#\Troco\Troco\obj\Debug\netcoreapp3.1\Troco.AssemblyInfoInputs.cache
+C:\Project\C#\Troco\Troco\obj\Debug\netcoreapp3.1\Troco.AssemblyInfo.cs
+C:\Project\C#\Troco\Troco\obj\Debug\netcoreapp3.1\Troco.csproj.CoreCompileInputs.cache
+C:\Project\C#\Troco\Troco\bin\Debug\netcoreapp3.1\Troco.exe
+C:\Project\C#\Troco\Troco\bin\Debug\netcoreapp3.1\Troco.deps.json
+C:\Project\C#\Troco\Troco\bin\Debug\netcoreapp3.1\Troco.runtimeconfig.json
+C:\Project\C#\Troco\Troco\bin\Debug\netcoreapp3.1\Troco.runtimeconfig.dev.json
+C:\Project\C#\Troco\Troco\bin\Debug\netcoreapp3.1\Troco.dll
+C:\Project\C#\Troco\Troco\bin\Debug\netcoreapp3.1\Troco.pdb
+C:\Project\C#\Troco\Troco\obj\Debug\netcoreapp3.1\Troco.dll
+C:\Project\C#\Troco\Troco\obj\Debug\netcoreapp3.1\Troco.pdb
+C:\Project\C#\Troco\Troco\obj\Debug\netcoreapp3.1\Troco.genruntimeconfig.cache
